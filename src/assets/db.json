@@ -38,12 +38,6 @@
   ],
   "tasks": [
     {
-      "id": 1,
-      "listId": 2,
-      "text": "Изучить JavaScript",
-      "completed": true
-    },
-    {
       "id": 2,
       "listId": 2,
       "text": "Изучить паттерны проектирования",
@@ -53,7 +47,7 @@
       "id": 3,
       "listId": 2,
       "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
-      "completed": true
+      "completed": false
     },
     {
       "id": 4,
@@ -76,7 +70,7 @@
     {
       "listId": 1,
       "text": "qweqwe",
-      "completed": false,
+      "completed": true,
       "id": 7
     },
     {
@@ -138,6 +132,18 @@
       "text": "вавава",
       "completed": false,
       "id": 20
+    },
+    {
+      "listId": 1,
+      "text": "222",
+      "completed": false,
+      "id": 21
+    },
+    {
+      "listId": 2,
+      "text": "111111111",
+      "completed": false,
+      "id": 22
     }
   ],
   "colors": [
